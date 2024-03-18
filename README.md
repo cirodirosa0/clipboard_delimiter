@@ -1,0 +1,1 @@
+My most loved standalone executable.  Quickly remove duplicates from a list in the windows clipboard and format into multi formats for input into other systems.  Used daily, multiple times, savings countless hours of effort.
